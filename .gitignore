@@ -1,0 +1,9 @@
+# Arquivos locais de ambiente e segredos
+.env
+*.log
+
+# Builds e caches
+build/
+__pycache__/
+*.pyc
+.venv/
